@@ -1,5 +1,5 @@
 # sistema-de-cadastro
-Sistema de cadastro de usuário  
+<h1>Sistema de cadastro de usuário</h1>
 
 Para rodar esse código na sua máquina, por favor digite: 
 
